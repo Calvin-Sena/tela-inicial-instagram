@@ -89,7 +89,9 @@ body {
     border: 1px solid #3376FE;
     border-radius: 1rem;
     text-align: center;
+    text-decoration: none;
     font-size: 20px ;
+    
 
     margin-top: 8%;
     padding: 2%;
